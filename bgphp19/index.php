@@ -90,6 +90,17 @@
                 </h2>
             </main>
         </div>
+        <div class="content-holder">
+            <article class="the-content sponsors-list">
+                <h1>Bootstrap Sponsor &amp; Founder</h1>
+                <a href="https://www.siteground.com/" title="SiteGround" target="_blank">
+                    <img
+                        src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/siteground.svg"
+                        alt="SiteGround Logo"
+                    >
+                </a>
+            </article>
+        </div>
         <footer class="the-footer">
             <div class="top-row">
                 <?php echo do_shortcode('[mc4wp_form id="19"]'); ?>

@@ -103,9 +103,21 @@ body {
     display: block;
 }
 
+.sponsors-list {
+    min-width: 25%;
+}
+
+.sponsors-list h1 {
+    margin-bottom: 5px;
+    text-align: left;
+    font-weight: normal;
+    font-size: 18px;
+}
+
 .the-footer {
-    background: rgba(0, 0, 0, 0.55);
+    margin-top: 25px;
     padding: 20px;
+    background: rgba(0, 0, 0, 0.55);
 }
 
 .the-footer .top-row {
