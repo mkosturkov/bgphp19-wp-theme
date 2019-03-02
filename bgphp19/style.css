@@ -1,0 +1,227 @@
+/*
+Theme Name: Bulgaria PHP Conference 2019
+Author: Milko Kosturkov
+Description: A theme for the Bulgaria PHP Conference 2019.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bgphpconf19
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@import url("https://fonts.googleapis.com/css?family=Droid+Sans:400,700");
+
+* {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: #52505e url("images/ndk-480-2.jpg") center/cover no-repeat;
+}
+
+@media (min-width: 481px) {
+    body {
+        background-image: url("images/ndk-hd-2.jpg");
+    }
+}
+
+@media (min-width: 721px) {
+    body {
+        background-image: url("images/ndk-fhd-2.jpg");
+    }
+}
+
+@media (min-width: 1921px) {
+    body {
+        background-image: url("images/ndk-4k-2.jpg");
+    }
+}
+
+.root-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    background: rgba(25, 25, 25, 0.5);
+    color: #eaeaea;
+    text-align: center;
+    font-size: 34px;
+}
+
+.the-header {
+    margin: 25px;
+    margin-bottom: -25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-holder a {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    color: transparent;
+}
+
+
+.social-holder a.facebook {
+    background: center/contain url("images/facebook.svg") no-repeat;
+}
+
+.social-holder a.twitter {
+    background: center/contain url("images/twitter.svg") no-repeat;
+}
+
+.social-holder a.mail {
+    background: center/contain url("images/mail-square.svg") no-repeat;
+}
+
+.content-holder {
+    display: flex;
+    justify-content: center;
+}
+
+.the-content {
+    background: rgba(0, 0, 0, 0.55);
+    padding: 20px;
+    align-self: center;
+}
+
+.the-content span {
+    display: block;
+}
+
+.the-footer {
+    background: rgba(0, 0, 0, 0.55);
+    padding: 20px;
+}
+
+.the-footer .top-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.the-form, .mc4wp-form {
+    max-width: 50%;
+    text-align: left;
+}
+
+
+.the-form label,
+.mc4wp-form label,
+.mc4wp-response {
+    display: block;
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #dddddd;
+}
+
+.the-previos {
+    font-size: 16px;
+    margin-top: 20px;
+    color: #dddddd;
+}
+
+.the-previos a {
+    color: #dddddd;
+}
+
+
+.mc4wp-response {
+    margin-top: 5px;
+}
+
+.the-form input[type="email"],
+.mc4wp-form input[type="email"] {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #dddddd;
+    border-radius: 2px;
+    padding-bottom: 10px;
+    color: #dddddd;
+    outline: none;
+    font-size: 20px;
+    width: 250px;
+}
+
+.button, .big-button {
+    display: inline-block;
+    padding: 10px;
+    background: transparent;
+    cursor: pointer;
+    border: 2px solid #dddddd;
+    color: #dddddd;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+.call-for-sponsors {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 779px) {
+    .root-wrapper {
+        font-size: 24px;
+    }
+
+    .social-holder a {
+        width: 30px;
+        height: 30px;
+    }
+
+    .the-logo {
+        width: 137.25px;
+        height: 45px;
+    }
+}
+
+@media (max-width: 629px) {
+    .root-wrapper {
+        font-size: 20px;
+    }
+
+    .the-footer .top-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .the-form, .mc4wp-form {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .the-form input[type="submit"],
+    .mc4wp-form input[type="submit"] {
+        display: block;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .the-form input[type="email"],
+    .mc4wp-form input[type="email"] {
+        width: 100%;
+    }
+}
+
+@media (max-width: 489px){
+    .root-wrapper {
+        font-size: 12px;
+    }
+
+    .the-footer .top-row * {
+        font-size: 18px !important;
+    }
+}
