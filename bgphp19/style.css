@@ -217,7 +217,9 @@ body {
         height: 45px;
     }
 
-    .
+    .organizer-notice {
+        font-size: 10px;
+    }
 }
 
 @media (max-width: 850px) {
