@@ -78,8 +78,8 @@
                 </a>
             </nav>
         </header>
-        <article class="content-holder the-content">
-            <h1>Call for papers opens on the 8<sup>th</sup>&nbsp;of March 2019!</h1>
+        <article class="content-holder the-content call-for-papers">
+            <h1>Call for Papers opens on the 8<sup>th</sup>&nbsp;of March 2019!</h1>
         </article>
         <div class="content-holder">
             <main class="the-content">

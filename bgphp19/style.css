@@ -103,8 +103,12 @@ body {
     display: block;
 }
 
+.call-for-papers {
+    border: 2px solid #801200;
+}
+
 .sponsors-list {
-    min-width: 25%;
+    min-width: 20%;
 }
 
 .sponsors-list h1 {
@@ -182,6 +186,10 @@ body {
 }
 
 .call-for-sponsors {
+    width: 400px;
+    height: 65px;
+    font-size: 24px;
+    line-height: 36px;
     margin-bottom: 10px;
 }
 
@@ -224,7 +232,8 @@ body {
     }
 
     .the-form input[type="email"],
-    .mc4wp-form input[type="email"] {
+    .mc4wp-form input[type="email"],
+    .call-for-sponsors {
         width: 100%;
     }
 }
