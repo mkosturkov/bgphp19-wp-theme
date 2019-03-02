@@ -65,6 +65,9 @@
         <header class="the-header">
             <div class="logo-holder">
                 <img src="<?php echo get_template_directory_uri();?>/images/logo.svg" alt="Bulgaria PHP Conference Logo" width="271.5" height="90" class="the-logo">
+                <div class="organizer-notice">
+                    organized by Ty's Software
+                </div>
             </div>
             <nav class="social-holder">
                 <a href="https://www.facebook.com/Bulgaria-PHP-Conference-792916594079571/" class="facebook" target="_blank">
@@ -86,13 +89,13 @@
                 <h1>Bulgaria PHP Conference 2019</h1>
                 <h2>
                     <span>November 8<sup>th</sup> - 10<sup>th</sup> 2019</span>
-                    <span>Sofia, Bulgaria</span>
+                    <span>National Palace of Culture (NDK), Sofia, Bulgaria</span>
                 </h2>
             </main>
         </div>
         <div class="content-holder">
             <article class="the-content sponsors-list">
-                <h1>Bootstrap Sponsor &amp; Founder</h1>
+                <h1>Bootstrap Sponsor &amp; Conference Founder</h1>
                 <a href="https://www.siteground.com/" title="SiteGround" target="_blank">
                     <img
                         src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/siteground.svg"

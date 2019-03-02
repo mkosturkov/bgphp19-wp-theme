@@ -59,8 +59,7 @@ body {
 }
 
 .the-header {
-    margin: 25px;
-    margin-bottom: -25px;
+    padding: 25px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -108,14 +107,17 @@ body {
 }
 
 .sponsors-list {
-    min-width: 20%;
+    width: 500px;
 }
 
 .sponsors-list h1 {
     margin-bottom: 5px;
-    text-align: left;
     font-weight: normal;
     font-size: 18px;
+}
+
+.sponsors-list img {
+    width: 250px;
 }
 
 .the-footer {
@@ -188,12 +190,19 @@ body {
 .call-for-sponsors {
     width: 400px;
     height: 65px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
     font-size: 24px;
-    line-height: 36px;
     margin-bottom: 10px;
 }
 
-@media (max-width: 779px) {
+.organizer-notice {
+    text-align: right;
+    font-size: 14px;
+}
+
+@media (max-width: 950px) {
     .root-wrapper {
         font-size: 24px;
     }
@@ -207,9 +216,11 @@ body {
         width: 137.25px;
         height: 45px;
     }
+
+    .
 }
 
-@media (max-width: 629px) {
+@media (max-width: 850px) {
     .root-wrapper {
         font-size: 20px;
     }
@@ -245,5 +256,14 @@ body {
 
     .the-footer .top-row * {
         font-size: 18px !important;
+    }
+
+    .sponsors-list img {
+        width: 50%;
+    }
+
+    .sponsors-list h1 {
+        text-align: center;
+        font-size: 12px;
     }
 }
