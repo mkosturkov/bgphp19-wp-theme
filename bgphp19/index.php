@@ -31,7 +31,7 @@
             "@type": "Event",
             "name": "Bulgaria PHP Conference 2019",
             "description": "Bulgaria PHP Conference 2019 will take place on the 8th-10th of November. It gathers professionals from the Balkans and all of Europe for fun and learning.",
-            "image": "https://bgphp.org/logo.svg",
+            "image": "https://www.bgphp.org/wp-content/themes/bgphp19/images/logo.svg",
             "location": {
                 "@type": "Place",
                 "name": "National Palace of Culture",
