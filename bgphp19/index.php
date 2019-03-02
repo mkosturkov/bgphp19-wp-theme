@@ -25,24 +25,12 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Bulgaria PHP Conference 2019</title>
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Bulgaria PHP Conference 2019" />
-    <meta property="og:description" content="Bulgaria PHP Conference is an international 3 day gathering people from the Balkans and all of Europe." />
-    <meta property="og:url" content="http://www.bgphp.org/" />
-    <meta property="og:site_name" content="Bulgaria PHP Conference" />
-    <meta property="og:image" content="http://www.bgphp.org/wp-content/uploads/2016/03/bgphpfacebook.jpg" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Bulgaria PHP Conference is an international 3 day gathering people from the Balkans and all of Europe." />
-    <meta name="twitter:title" content="Bulgaria PHP Conference 2019" />
-    <meta name="twitter:image" content="http://www.bgphp.org/wp-content/uploads/2016/03/bgphpfacebook.jpg" />
     <script type="application/ld+json">
         {
             "@context": "http://schema.org",
             "@type": "Event",
             "name": "Bulgaria PHP Conference 2019",
-            "description": "Bulgaria PHP Conference is an international 3 day event gathering people from the Balkans and all of Europe.",
+            "description": "Bulgaria PHP Conference 2019 will take place on the 8th-10th of November. It gathers professionals from the Balkans and all of Europe for fun and learning.",
             "image": "https://bgphp.org/logo.svg",
             "location": {
                 "@type": "Place",
