@@ -25,28 +25,30 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "Event",
-            "name": "Bulgaria PHP Conference 2019",
-            "description": "Bulgaria PHP Conference 2019 will take place on the 8th-10th of November. It gathers professionals from the Balkans and all of Europe for fun and learning.",
-            "image": "https://www.bgphp.org/wp-content/themes/bgphp19/images/logo.svg",
-            "location": {
-                "@type": "Place",
-                "name": "National Palace of Culture",
-                "address": {
-                    "@type": "PostalAddress",
-                    "addressCountry": "Bulgaria",
-                    "addressLocality": "Sofia"
+    <?php if (is_home()):?>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "Event",
+                "name": "Bulgaria PHP Conference 2019",
+                "description": "Bulgaria PHP Conference 2019 will take place on the 8th-10th of November. It gathers professionals from the Balkans and all of Europe for fun and learning.",
+                "image": "https://www.bgphp.org/wp-content/themes/bgphp19/images/logo.svg",
+                "location": {
+                    "@type": "Place",
+                    "name": "National Palace of Culture",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Bulgaria",
+                        "addressLocality": "Sofia"
+                    },
+                    "url": "http://www.ndk.bg/"
                 },
-                "url": "http://www.ndk.bg/"
-            },
-            "startDate": "2019-11-08",
-            "endDate": "2019-11-10",
-            "url": "http://www.bgphp.org/"
-        }
-    </script>
+                "startDate": "2019-11-08",
+                "endDate": "2019-11-10",
+                "url": "http://www.bgphp.org/"
+            }
+        </script>
+    <?php endif;?>
 </head>
 <body>
 <div class="root-wrapper">
