@@ -52,7 +52,9 @@
 <div class="root-wrapper">
     <header class="the-header">
         <div class="logo-holder">
-            <img src="<?php echo get_template_directory_uri();?>/images/logo.svg" alt="Bulgaria PHP Conference Logo" width="271.5" height="90" class="the-logo">
+            <a href="/">
+                <img src="<?php echo get_template_directory_uri();?>/images/logo.svg" alt="Bulgaria PHP Conference Logo" width="271.5" height="90" class="the-logo">
+            </a>
             <div class="organizer-notice">
                 organized by Ty's Software
             </div>
