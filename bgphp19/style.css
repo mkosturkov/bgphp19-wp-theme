@@ -58,6 +58,10 @@ body {
     font-size: 34px;
 }
 
+.root-wrapper a {
+    color: #eaeaea;
+}
+
 .the-header {
     padding: 25px;
     display: flex;
@@ -100,6 +104,43 @@ body {
 
 .the-content span {
     display: block;
+}
+
+.the-content.an-article {
+    max-width: 900px;
+    width: 90%;
+    margin-bottom: 100px;
+    text-align: left;
+    background: rgba(0, 0, 0, 0.75);
+    color: #cccccc;
+}
+
+.the-content.an-article p,
+.the-content.an-article li {
+    font-size: 0.5em;
+    line-height: 1.5em;
+}
+
+.the-content.an-article h1,
+.the-content.an-article h2,
+.the-content.an-article h3,
+.the-content.an-article p {
+    margin-bottom: 10px;
+    text-indent: 5%;
+}
+
+.the-content.an-article h2,
+.the-content.an-article h3 {
+    font-size: 1em;
+}
+
+.the-content.an-article h1 {
+    margin-bottom: 5%;
+    font-size: 2em;
+}
+
+.the-content.an-article li {
+    margin-left: 10%;
 }
 
 .call-for-papers {
@@ -152,11 +193,6 @@ body {
     margin-top: 20px;
     color: #dddddd;
 }
-
-.the-previos a {
-    color: #dddddd;
-}
-
 
 .mc4wp-response {
     margin-top: 5px;
@@ -220,6 +256,20 @@ body {
     .organizer-notice {
         font-size: 10px;
     }
+
+    .the-content.an-article p,
+    .the-content.an-article li {
+        font-size: 0.75em;
+    }
+
+    .the-content.an-article h2,
+    .the-content.an-article h3 {
+        font-size: 1em;
+    }
+
+    .the-content.an-article h1 {
+        font-size: 1.75em;
+    }
 }
 
 @media (max-width: 850px) {
@@ -267,5 +317,19 @@ body {
     .sponsors-list h1 {
         text-align: center;
         font-size: 12px;
+    }
+
+    .the-content.an-article p,
+    .the-content.an-article li {
+        font-size: 1.2em;
+    }
+
+    .the-content.an-article h2,
+    .the-content.an-article h3 {
+        font-size: 1.5em;
+    }
+
+    .the-content.an-article h1 {
+        font-size: 2em;
     }
 }
