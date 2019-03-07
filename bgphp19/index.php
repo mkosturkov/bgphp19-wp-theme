@@ -99,7 +99,7 @@
                     Partner with us
                 </a>
             </div>
-            <nav class="the-previos">
+            <nav class="the-footer-menu">
                 The previous editions:
                 <a href="http://www.bgphp.org/bgphp15/" target="_blank">2015</a>
                 |
