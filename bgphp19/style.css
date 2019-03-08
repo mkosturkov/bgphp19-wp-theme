@@ -144,7 +144,12 @@ body {
 }
 
 .call-for-papers {
-    border: 2px solid #801200;
+    font-style: italic;
+}
+
+.call-for-papers .open {
+    display: inline;
+    color: rgb(136, 190, 72);
 }
 
 .sponsors-list {

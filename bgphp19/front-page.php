@@ -1,6 +1,8 @@
 <?php include __DIR__ . '/header.php';?>
 <article class="content-holder the-content call-for-papers">
-    <h1>Call for Papers opens on the 8<sup>th</sup>&nbsp;of March 2019!</h1>
+    <h1>
+        <a href="https://cfp.bgphp.org" target="_blank">Call for Papers</a>
+        is now <span class="open">open</span>!</h1>
 </article>
 <div class="content-holder">
     <main class="the-content">
