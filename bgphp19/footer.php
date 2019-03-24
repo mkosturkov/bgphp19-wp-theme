@@ -1,7 +1,7 @@
 <footer class="the-footer">
     <div class="top-row">
         <?php echo do_shortcode('[mc4wp_form id="19"]'); ?>
-        <a href="mailto:sponsors@bgphp.org" class="call-for-sponsors button">
+        <a href="https://www.bgphp.org/Bulgaria%20PHP%20Conference%202019%20Partnership%20Packs.pdf" class="call-for-sponsors button" target="_blank">
             Partner with us
         </a>
     </div>
