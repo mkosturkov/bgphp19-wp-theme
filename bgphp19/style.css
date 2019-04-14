@@ -106,9 +106,13 @@ body {
     display: block;
 }
 
+.the-content.restrained-width,
 .the-content.an-article {
     max-width: 900px;
     width: 90%;
+}
+
+.the-content.an-article {
     margin-bottom: 100px;
     text-align: left;
     background: rgba(0, 0, 0, 0.75);
