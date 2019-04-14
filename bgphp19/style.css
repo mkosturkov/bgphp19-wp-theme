@@ -154,16 +154,31 @@ body {
 
 .sponsors-list {
     width: 500px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .sponsors-list h1 {
-    margin-bottom: 5px;
+    position: absolute;
+    top: 10px;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 24px;
 }
 
-.sponsors-list img {
-    width: 250px;
+.sponsors-list a {
+    position: relative;
+    top: 10px;
+}
+
+#siteground-logo {
+    width: 335px;
+}
+
+#isobar-logo {
+    width: 225px;
 }
 
 .the-footer {
@@ -315,13 +330,21 @@ body {
         font-size: 18px !important;
     }
 
-    .sponsors-list img {
-        width: 50%;
+    .sponsors-list {
+        height: 100px;
     }
 
     .sponsors-list h1 {
         text-align: center;
-        font-size: 12px;
+        font-size: 16px;
+    }
+
+    #siteground-logo {
+        width: 200px;
+    }
+
+    #isobar-logo {
+        width: 125px;
     }
 
     .the-content.an-article p,

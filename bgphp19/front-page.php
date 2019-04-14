@@ -13,15 +13,30 @@
         </h2>
     </main>
 </div>
-<div class="content-holder">
-    <article class="the-content sponsors-list">
-        <h1>Bootstrap Sponsor &amp; Conference Founder</h1>
-        <a href="https://www.siteground.com/" title="SiteGround" target="_blank">
-            <img
-                src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/siteground.svg"
-                alt="SiteGround Logo"
-            >
-        </a>
-    </article>
-</div>
+<ol>
+    <li class="content-holder">
+        <article class="the-content sponsors-list">
+            <h1>Bootstrap Sponsor &amp; Conference Founder</h1>
+            <a href="https://www.siteground.com/" title="SiteGround" target="_blank">
+                <img
+                    src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/siteground.svg"
+                    alt="SiteGround Logo"
+                    id="siteground-logo"
+                >
+            </a>
+        </article>
+    </li>
+    <li class="content-holder">
+        <article class="the-content sponsors-list">
+            <h1>Golden Sponsors</h1>
+            <a href="https://www.isobar.com/bg/en/" title="isobar" target="_blank">
+                <img
+                    src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/isobar.png"
+                    alt="Isobar Logo"
+                    id="isobar-logo"
+                >
+            </a>
+        </article>
+    </li>
+</ol>
 <?php include __DIR__ . '/footer.php';
