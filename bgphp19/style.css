@@ -73,6 +73,22 @@ ul, ol {
     align-items: center;
 }
 
+.menu-holder {
+    display: flex;
+}
+
+.site-navigation {
+    margin-right: 20px;
+}
+
+.site-navigation a {
+    text-decoration: none;
+}
+
+.site-navigation a:hover {
+    text-decoration: underline;
+}
+
 .social-holder a {
     display: inline-block;
     width: 50px;

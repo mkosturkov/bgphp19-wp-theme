@@ -61,15 +61,22 @@
                 organized by Ty's Software
             </div>
         </div>
-        <nav class="social-holder">
-            <a href="https://www.facebook.com/Bulgaria-PHP-Conference-792916594079571/" class="facebook" target="_blank">
-                Facebook
-            </a>
-            <a href="https://twitter.com/bgphpconf" class="twitter" target="_blank">
-                Twitter
-            </a>
-            <a href="mailto:conference@bgphp.org" class="mail">
-                conference@bgphp.org
-            </a>
-        </nav>
+        <div class="menu-holder">
+            <nav class="site-navigation">
+                <a href="/sponsors">
+                    Sponsors
+                </a>
+            </nav>
+            <nav class="social-holder">
+                <a href="https://www.facebook.com/Bulgaria-PHP-Conference-792916594079571/" class="facebook" target="_blank">
+                    Facebook
+                </a>
+                <a href="https://twitter.com/bgphpconf" class="twitter" target="_blank">
+                    Twitter
+                </a>
+                <a href="mailto:conference@bgphp.org" class="mail">
+                    conference@bgphp.org
+                </a>
+            </nav>
+        </div>
     </header>
