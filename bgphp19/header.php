@@ -61,7 +61,7 @@
                 organized by Ty's Software
             </div>
         </div>
-        <div class="menu-holder">
+        <div class="menu-holder" id="main-menu">
             <nav class="site-navigation">
                 <a href="/sponsors">
                     Sponsors
@@ -78,5 +78,7 @@
                     conference@bgphp.org
                 </a>
             </nav>
+            <button class="menu-closer" id="close-menu-btn">Close Menu</button>
         </div>
+        <button class="menu-opener" id="open-menu-btn">Open Menu</button>
     </header>

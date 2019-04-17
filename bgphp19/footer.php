@@ -15,6 +15,21 @@
     </nav>
 </footer>
 </div>
+
+<script>
+  (function() {
+    var menu = document.getElementById('main-menu');
+    var openBtn = document.getElementById('open-menu-btn');
+    var closeBtn = document.getElementById('close-menu-btn');
+    openBtn.addEventListener('click', function() {
+      menu.classList.add('open');
+    });
+    closeBtn.addEventListener('click', function() {
+      menu.classList.remove('open');
+    });
+  })();
+</script>
+
 <script type="text/javascript">
   setTimeout(function()
     {var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0017/3442.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}
