@@ -13,7 +13,7 @@
         <article class="restrained-width sponsors-details">
             <ol>
                 <li class="sponsors-details-group">
-                    <h2>Bootstrap &amp; Conference Founder</h2>
+                    <h2>Bootstrap Sponsor &amp; Conference Founder</h2>
                     <ul>
                         <li class="sponsors-details-single">
                             <a class="sponsors-details-single-img-holder" href="https://www.siteground.com/" title="SiteGround" target="_blank">
@@ -24,22 +24,8 @@
                                 >
                             </a>
                             <div class="the-content an-article">
-                                <p>
-                                    SiteGround is a leading web hosting company with more than 12 years in the industry
-                                    and over 500 000 hosted domains.
-                                    Wе focus on top server performance and improved
-                                    security with best in class all-SSD infrastructure,
-                                    custom in-house developed solutions and latest speed technologies
-                                    like NGINX, HHVM, PHP7 and HTTP/2
-                                    that make websites 100x faster and better protected.
-                                </p>
-                                <p>
-                                    We are famous for our unmatched customer service thanks to our fast,
-                                    experienced and super friendly team providing amazing help 24/7.
-                                    Encouraged by our very own PHP dev team,
-                                    we are proud to help nurture our local PHP community by supporting
-                                    the Bulgarian PHP user group and getting involved in Bulgaria PHP Conference
-                                    from the very start.
+                                <p style="text-align: center">
+                                    Founder of <b>Bulgaria PHP Conference</b> and organizer of the 2015 and 2016 editions.
                                 </p>
                                 <a href="https://www.siteground.com/" title="SiteGround" target="_blank">
                                     www.siteground.com
@@ -49,7 +35,7 @@
                     </ul>
                 </li>
                 <li class="sponsors-details-group">
-                    <h2>Gold</h2>
+                    <h2>Gold Sponsor</h2>
                     <ul>
                         <li class="sponsors-details-single">
                             <a class="sponsors-details-single-img-holder" href="https://www.isobar.com/bg/en/" title="isobar" target="_blank">

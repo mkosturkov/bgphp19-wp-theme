@@ -313,6 +313,11 @@ ul, ol {
     text-align: justify;
 }
 
+.sponsors-details-single .an-article a {
+    display: block;
+    text-align: center;
+}
+
 @media (max-width: 950px) {
     .root-wrapper {
         font-size: 24px;
@@ -333,6 +338,7 @@ ul, ol {
     }
 
     .the-content.an-article p,
+    .the-content.an-article a,
     .the-content.an-article li {
         font-size: 0.75em;
     }
