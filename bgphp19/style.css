@@ -29,6 +29,10 @@ body {
     background: #52505e url("images/ndk-480-2.jpg") center/cover no-repeat fixed;
 }
 
+ul, ol {
+    list-style: none;
+}
+
 @media (min-width: 481px) {
     body {
         background-image: url("images/ndk-hd-2.jpg");
@@ -120,6 +124,7 @@ body {
 }
 
 .the-content.an-article p,
+.the-content.an-article a,
 .the-content.an-article li {
     font-size: 0.5em;
     line-height: 1.5em;
@@ -262,6 +267,52 @@ body {
     font-size: 14px;
 }
 
+/** Specifics **/
+.call-for-sponsors-block p {
+    font-size: 0.75em;
+}
+
+.call-for-sponsors-block h1 {
+    margin-bottom: 15px;
+}
+
+.call-for-sponsors-block .call-for-sponsors {
+    margin-top: 15px;
+}
+
+.sponsors-details {
+    padding: 0;
+    margin-top: -25px;
+}
+
+.sponsors-details-group {
+    padding-top: 30px;
+    margin: 50px 0;
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.sponsors-details-group h2 {
+    margin-bottom: 30px;
+    font-size: 1.2em;
+}
+
+.sponsors-details-single {
+    display: flex;
+    flex-direction: column;
+}
+
+.sponsors-details-single-img-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sponsors-details-single .an-article {
+    margin-bottom: 0;
+    background: none;
+    text-align: justify;
+}
+
 @media (max-width: 950px) {
     .root-wrapper {
         font-size: 24px;
@@ -352,6 +403,7 @@ body {
     }
 
     .the-content.an-article p,
+    .the-content.an-article a,
     .the-content.an-article li {
         font-size: 1.2em;
     }
@@ -363,5 +415,26 @@ body {
 
     .the-content.an-article h1 {
         font-size: 2em;
+    }
+
+    .call-for-sponsors-block {
+        padding: 10px;
+    }
+
+    .call-for-sponsors-block h1 {
+        font-size: 2em;
+    }
+
+    .call-for-sponsors-block p {
+        font-size: 1.2em;
+    }
+
+    .call-for-sponsors-block .call-for-sponsors {
+        font-size: 2em;
+        height: 50px;
+    }
+
+    .sponsors-details-group h2 {
+        font-size: 1.5em;
     }
 }
