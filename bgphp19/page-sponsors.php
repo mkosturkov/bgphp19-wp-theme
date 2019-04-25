@@ -49,17 +49,16 @@
                                 <p>
                                     Isobar Commerce Bulgaria, previously known as eCommera,
                                     has a proven track record for delivering, managing and innovating
-                                    multi-channel commerce platforms for major international brand
-                                    and retailers including Clarins, Walt Disney, Adidas, ASDA – WalMart, Shiseido
-                                    and many more. Our world - class team has delivered sites for over 25 brands
+                                    multi-channel commerce platforms for major international brand and retailers
+                                    including Clarins, Walt Disney, Adidas, ASDA – WalMart, Shiseido and many more.
+                                    Our world - class team has delivered sites for over 25 brands
                                     with more than 170 sites across 34 markets.
                                 </p>
 
                                 <p>
                                     Isobar Commerce partners with Salesforce Commerce Cloud,
-                                    a leading e-commerce SaaS platform globally platform,
-                                    globally to deliver outstanding value for retailers and brands.
-                                    The team works to solve retail’s most pressing challenges –
+                                    a leading e-commerce SaaS platform to deliver globally outstanding value for retailers
+                                    and brands. Our team works to solve retail’s most pressing challenges –
                                     omni-channel operations, global expansion and customer experience.
                                 </p>
                                 <a href="https://www.isobar.com/bg/en/" title="isobar" target="_blank">
