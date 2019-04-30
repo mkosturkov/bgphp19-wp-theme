@@ -24,9 +24,38 @@
                                 >
                             </a>
                             <div class="the-content an-article">
-                                <p style="text-align: center">
-                                    Founder of <b>Bulgaria PHP Conference</b> and organizer of the 2015 and 2016 editions.
+                                <p>
+                                    SiteGround is a leading web hosting provider powering more than 2 million domains worldwide
+                                    and is internationally recognized for their unique approach to hosting.
+                                    Since 2004, the company has provided customers with outstanding website speed,
+                                    security, and top-rated customer support service.
+                                    SiteGround will host your PHP site or app on a scalable, ultra-fast container infrastructure.
+                                    It is built on Linux Containers (LXC) with SSD disks,
+                                    Apache servers with default 7.1 PHP version and easy switch between multiple others,
+                                    as well as NGINX set up as a reverse proxy for their caching system.
                                 </p>
+
+
+                                <p>
+                                    SiteGround is dedicated to providing developers with quick tools that help them
+                                    run and manage websites smoothly and efficiently.
+                                    Some of these include free SSL, SSH access, Git integration, Staging,
+                                    multiple PHP versions & easy switch, phpMyadmin, unlimited number of databases, and more.
+                                    They also have a skilled 24/7 support team that will be happy to help you solve
+                                    any hosting issues in no time!
+                                </p>
+
+
+                                <p>
+                                    SiteGround has always supported and believed in open source technologies and initiatives.
+                                    They were founders of Bulgaria PHP Conference,
+                                    the first two editions of which were driven by their
+                                    Web Dev Team Manager Mihail Irintchev and SiteGround’s resources,
+                                    as well as volunteer help from the local community.
+                                </p>
+
+
+
                                 <a href="https://www.siteground.com/" title="SiteGround" target="_blank">
                                     www.siteground.com
                                 </a>
