@@ -493,6 +493,10 @@ ul, ol {
         font-size: 12px;
     }
 
+    .the-header .site-navigation {
+        font-size: 16px;
+    }
+
     .the-footer .top-row * {
         font-size: 18px !important;
     }
