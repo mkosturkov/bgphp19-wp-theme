@@ -2,7 +2,8 @@
 <article class="content-holder the-content call-for-papers">
     <h1>
         <a href="https://cfp.bgphp.org" target="_blank">Call for Papers</a>
-        is now <span class="open">open</span>!</h1>
+        closes on the <span style="color: #e50b0b; display: inline">8<sup>th</sup> of May</span>
+    </h1>
 </article>
 <div class="content-holder">
     <main class="the-content">
