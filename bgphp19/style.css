@@ -209,15 +209,6 @@ ul, ol {
     margin-left: 10%;
 }
 
-.call-for-papers {
-    font-style: italic;
-}
-
-.call-for-papers .open {
-    display: inline;
-    color: rgb(136, 190, 72);
-}
-
 .sponsors-list {
     width: 500px;
     height: 180px;

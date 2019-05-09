@@ -1,10 +1,4 @@
 <?php include __DIR__ . '/header.php';?>
-<article class="content-holder the-content call-for-papers">
-    <h1>
-        <a href="https://cfp.bgphp.org" target="_blank">Call for Papers</a>
-        closes on the <span style="color: #e50b0b; display: inline">8<sup>th</sup> of May</span>
-    </h1>
-</article>
 <div class="content-holder">
     <main class="the-content">
         <h1>Bulgaria PHP Conference 2019</h1>
