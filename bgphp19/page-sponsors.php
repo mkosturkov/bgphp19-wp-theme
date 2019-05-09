@@ -124,6 +124,25 @@
                         </li>
                     </ul>
                 </li>
+                <li class="sponsors-details-group">
+                    <h2>The After Party Company</h2>
+                    <ul>
+                        <li class="sponsors-details-single">
+                            <a class="sponsors-details-single-img-holder" href="https://www.siteground.com/" title="SiteGround" target="_blank">
+                                <img
+                                    src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/siteground.svg"
+                                    alt="SiteGround Logo"
+                                    id="siteground-logo"
+                                >
+                            </a>
+                            <div class="the-content an-article">
+                                <a href="https://www.siteground.com/" title="SiteGround" target="_blank">
+                                    www.siteground.com
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
             </ol>
         </article>
     </div>
