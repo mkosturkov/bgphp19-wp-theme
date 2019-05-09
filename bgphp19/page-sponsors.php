@@ -97,6 +97,33 @@
                         </li>
                     </ul>
                 </li>
+                <li class="sponsors-details-group">
+                    <h2>Silver Sponsor</h2>
+                    <ul>
+                        <li class="sponsors-details-single">
+                            <a class="sponsors-details-single-img-holder" href="https://droxic.com" title="Droxic" target="_blank">
+                                <img
+                                        src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/droxic.svg"
+                                        alt="Droxic Logo"
+                                        id="droxic-logo"
+                                >
+                            </a>
+                            <div class="the-content an-article">
+                                <p>
+                                    DROXIC was founded in 2012 by three friends with over 15 years of experience in the industry.
+                                    The company focuses on developing web and mobile projects for customers in Europe
+                                    and North America.
+                                    In DROXIC, we love challenges, and that attitude helps us create and develop complex
+                                    and large-scale software solutions. Our main goals are to deliver outstanding quality,
+                                    make our employees happy and keep our clients completely satisfied with our work!
+                                </p>
+                                <a href="https://droxic.com" title="Droxic" target="_blank">
+                                    droxic.com
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
             </ol>
         </article>
     </div>

@@ -33,5 +33,17 @@
             </a>
         </article>
     </li>
+    <li class="content-holder">
+        <article class="the-content sponsors-list">
+            <h1>Silver Sponsor</h1>
+            <a href="https://droxic.com" title="Droxic" target="_blank">
+                <img
+                        src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/droxic.svg"
+                        alt="Droxic Logo"
+                        id="droxic-logo"
+                >
+            </a>
+        </article>
+    </li>
 </ol>
 <?php include __DIR__ . '/footer.php';

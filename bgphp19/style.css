@@ -238,6 +238,10 @@ ul, ol {
     width: 225px;
 }
 
+#droxic-logo {
+    width: 360px;
+}
+
 .the-footer {
     margin-top: 25px;
     padding: 20px;
@@ -507,6 +511,10 @@ ul, ol {
 
     #isobar-logo {
         width: 125px;
+    }
+
+    #droxic-logo {
+        width: 220px;
     }
 
     .the-content.an-article p,
