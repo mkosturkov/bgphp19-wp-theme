@@ -17,13 +17,13 @@
         </main>
     </div>
     <div class="content-holder">
-        <article class="the-content sponsors-list" style="width: 1200px;">
-            <h1 style="font-size: 40px">Bootstrap Sponsor &amp; Conference Founder</h1>
+        <article class="the-content sponsors-list" style="width: 1280px; height: 400px">
+            <h1 style="font-size: 40px">Gold Sponsor</h1>
             <a href="https://www.siteground.com/" title="SiteGround" target="_blank">
                 <img
-                    src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/siteground.svg"
+                    src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/isobar.png"
                     alt="SiteGround Logo"
-                    style="width: 800px"
+                    style="width: 600px"
                 >
             </a>
         </article>

@@ -8,7 +8,8 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <?php if (is_home()):?>
+    <?php if (is_front_page()):?>
+        <meta name="verify-paysera" content="337948963e187006f58acd32b24084c7">
         <script type="application/ld+json">
             {
                 "@context": "http://schema.org",
