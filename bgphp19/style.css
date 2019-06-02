@@ -180,24 +180,42 @@ ul, ol {
     color: #cccccc;
 }
 
-.the-content.an-article p,
-.the-content.an-article a,
-.the-content.an-article li {
+.the-content.an-article > p,
+.the-content.an-article > a,
+.the-content.an-article > ul > li {
     font-size: 0.5em;
     line-height: 1.5em;
+}
+
+.the-content.an-article ul {
+    list-style: disc;
 }
 
 .the-content.an-article h1,
 .the-content.an-article h2,
 .the-content.an-article h3,
-.the-content.an-article p {
+.the-content.an-article p,
+.the-content.an-article li{
     margin-bottom: 10px;
+}
+
+.the-content.an-article h1,
+.the-content.an-article h2,
+.the-content.an-article h3 {
+    margin-top: 10px;
+    padding-left: 5%;
+}
+
+.the-content.an-article p {
     text-indent: 5%;
 }
 
-.the-content.an-article h2,
-.the-content.an-article h3 {
+.the-content.an-article h2 {
     font-size: 1em;
+}
+
+.the-content.an-article h3 {
+    font-size: 0.7em;
 }
 
 .the-content.an-article h1 {
@@ -393,15 +411,10 @@ ul, ol {
         font-size: 10px;
     }
 
-    .the-content.an-article p,
-    .the-content.an-article a,
-    .the-content.an-article li {
+    .the-content.an-article > p,
+    .the-content.an-article > a,
+    .the-content.an-article > ul > li {
         font-size: 0.75em;
-    }
-
-    .the-content.an-article h2,
-    .the-content.an-article h3 {
-        font-size: 1em;
     }
 
     .the-content.an-article h1 {
@@ -517,15 +530,18 @@ ul, ol {
         width: 220px;
     }
 
-    .the-content.an-article p,
-    .the-content.an-article a,
-    .the-content.an-article li {
+    .the-content.an-article > p,
+    .the-content.an-article > a,
+    .the-content.an-article >ul > li {
         font-size: 1.2em;
     }
 
-    .the-content.an-article h2,
-    .the-content.an-article h3 {
+    .the-content.an-article h2 {
         font-size: 1.5em;
+    }
+
+    .the-content.an-article h3 {
+        font-size: 1.3em;
     }
 
     .the-content.an-article h1 {

@@ -7,11 +7,13 @@
     </div>
     <nav class="the-footer-menu">
         The previous editions:
-        <a href="http://www.bgphp.org/bgphp15/" target="_blank">2015</a>
+        <a href="https://www.bgphp.org/bgphp15/" target="_blank">2015</a>
         •
-        <a href="http://www.bgphp.org/bgphp16/" target="_blank">2016</a>
+        <a href="https://www.bgphp.org/bgphp16/" target="_blank">2016</a>
         |
-        <a href="http://www.bgphp.org/code-of-conduct/">Code of Conduct</a>
+        <a href="https://www.bgphp.org/code-of-conduct/">Code of Conduct</a>
+        |
+        <a href="https://www.bgphp.org/privacy-policy/">Privacy Policy</a>
     </nav>
 </footer>
 </div>
