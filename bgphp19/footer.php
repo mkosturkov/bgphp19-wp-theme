@@ -14,6 +14,8 @@
         <a href="https://www.bgphp.org/code-of-conduct/">Code of Conduct</a>
         |
         <a href="https://www.bgphp.org/privacy-policy/">Privacy Policy</a>
+        |
+        <a href="https://www.bgphp.org/terms-and-conditions/">Terms and Conditions</a>
     </nav>
 </footer>
 </div>
