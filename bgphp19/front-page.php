@@ -1,7 +1,7 @@
 <?php include __DIR__ . '/header.php';?>
 <article class="content-holder the-content">
     <h1 style="font-style: italic">
-        Ticket sales start on November 7<sup>th</sup>!
+        Ticket sales start on June 7<sup>th</sup>!
     </h1>
 </article>
 <div class="content-holder">
