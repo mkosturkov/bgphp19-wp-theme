@@ -27,6 +27,17 @@
                     },
                     "url": "http://www.ndk.bg/"
                 },
+                "offers": [
+                    {
+                        "@type": "Offer",
+                        "category": "Primary",
+                        "price": "114.00",
+                        "priceCurrency": "EUR",
+                        "availability": "http:\/\/schema.org\/InStock",
+                        "url": "https://tickets.paysera.com/en/event/bulgaria-php-conference-2019",
+                        "validFrom": "2019-06-07"
+                    }
+                ],
                 "startDate": "2019-11-08",
                 "endDate": "2019-11-10",
                 "url": "http://www.bgphp.org/"

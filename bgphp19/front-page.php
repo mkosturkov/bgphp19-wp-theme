@@ -1,7 +1,10 @@
 <?php include __DIR__ . '/header.php';?>
 <article class="content-holder the-content">
     <h1 style="font-style: italic">
-        Ticket sales start on June 7<sup>th</sup>!
+        Blind Bird tickets available
+        <a href="https://tickets.paysera.com/en/event/bulgaria-php-conference-2019" style="color: rgb(136, 190, 72)" target="_blank">
+            HERE!
+        </a>
     </h1>
 </article>
 <div class="content-holder">
