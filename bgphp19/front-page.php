@@ -1,7 +1,7 @@
 <?php include __DIR__ . '/header.php';?>
 <article class="content-holder the-content">
     <h1 style="font-style: italic">
-        Blind Bird tickets available
+        Super Early Bird tickets available
         <a href="https://tickets.paysera.com/en/event/bulgaria-php-conference-2019" style="color: rgb(136, 190, 72)" target="_blank">
             HERE!
         </a>
