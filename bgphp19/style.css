@@ -277,6 +277,10 @@ ul, ol {
     width: 360px;
 }
 
+#axs-marine-logo {
+    width: 300px;
+}
+
 .the-footer {
     margin-top: 25px;
     padding: 20px;
@@ -566,6 +570,10 @@ ul, ol {
 
     #droxic-logo {
         width: 220px;
+    }
+
+    #axs-marine-logo {
+        width: 200px;
     }
 
     .the-content.an-article > p,

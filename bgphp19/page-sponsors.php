@@ -155,6 +155,40 @@
                     </ul>
                 </li>
                 <li class="sponsors-details-group">
+                    <h2>Base Sponsor</h2>
+                    <ul>
+                        <li class="sponsors-details-single">
+                            <a class="sponsors-details-single-img-holder" href="https://public.axsmarine.com/" title="AXSMarine" target="_blank">
+                                <img
+                                        src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/axs-marine.png"
+                                        alt="AXSMarine Logo"
+                                        id="axs-marine-logo"
+                                >
+                            </a>
+                            <div class="the-content an-article">
+                                <p>
+                                    AXSMarine is a French company and a leading provider of specialized maritime
+                                    web-based software with offices in Sofia, Paris, London, Singapore and Stamford (USA).
+                                </p>
+                                <p>
+                                    We offer a complete suite of interactive, web-based tools and databases which support
+                                    all commercial ship chartering activities. Our products and solutions are
+                                    purpose-built for shipbrokers, operators, owners, charterers, research firms and
+                                    financial institutions, helping them make decisions efficiently and accurately.
+                                </p>
+                                <p>AXSMarine subscribers can transform a massive overload of raw text data into useful,
+                                    searchable information. As a result, our customers are able to make faster decisions
+                                    and smarter choices by easily accessing own information and market data with our
+                                    powerful, easy-to-use assessment and analysis tools.
+                                </p>
+                                <a href="https://public.axsmarine.com/" title="AXSMarine" target="_blank">
+                                    axsmarine.com
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="sponsors-details-group">
                     <h2>The After Party Company</h2>
                     <ul>
                         <li class="sponsors-details-single">
