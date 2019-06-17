@@ -31,14 +31,27 @@
     </li>
     <li class="content-holder">
         <article class="the-content sponsors-list">
-            <h1>Gold Sponsor</h1>
-            <a href="https://www.isobar.com/bg/en/" title="isobar" target="_blank">
-                <img
-                    src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/isobar.png"
-                    alt="Isobar Logo"
-                    id="isobar-logo"
-                >
-            </a>
+            <h1>Gold Sponsors</h1>
+            <ul>
+                <li>
+                    <a href="https://www.isobar.com/bg/en/" title="isobar" target="_blank">
+                        <img
+                                src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/isobar.png"
+                                alt="Isobar Logo"
+                                id="isobar-logo"
+                        >
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.rewardgateway.com/" title="RewardGateway" target="_blank">
+                        <img
+                                src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/reward-gateway.png"
+                                alt="RewardGateway Logo"
+                                id="reward-gateway-logo"
+                        >
+                    </a>
+                </li>
+            </ul>
         </article>
     </li>
     <li class="content-holder">

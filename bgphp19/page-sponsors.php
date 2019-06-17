@@ -64,7 +64,7 @@
                     </ul>
                 </li>
                 <li class="sponsors-details-group">
-                    <h2>Gold Sponsor</h2>
+                    <h2>Gold Sponsors</h2>
                     <ul>
                         <li class="sponsors-details-single">
                             <a class="sponsors-details-single-img-holder" href="https://www.isobar.com/bg/en/" title="isobar" target="_blank">
@@ -92,6 +92,36 @@
                                 </p>
                                 <a href="https://www.isobar.com/bg/en/" title="isobar" target="_blank">
                                     www.isobar.com
+                                </a>
+                            </div>
+                        </li>
+                        <li class="sponsors-details-single">
+                            <a class="sponsors-details-single-img-holder" href="https://www.rewardgateway.com/" title="RewardGateway" target="_blank">
+                                <img
+                                        src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/reward-gateway.png"
+                                        alt="RewardGateway Logo"
+                                        id="reward-gateway-logo"
+                                >
+                            </a>
+                            <div class="the-content an-article">
+                                <p>
+                                    Our mission is to make the world a better place to work and to achieve this mission
+                                    we need products our customers will fall in love with.
+                                </p>
+
+                                <p>
+                                    We help more than 1,800+ of the world's leading companies to attract,
+                                    engage and retain their best people with an employee engagement platform that brings
+                                    employee benefits, discounts and perks, reward and recognition, employee wellbeing,
+                                    employee communications and employee survey tools into one unified hub.
+                                </p>
+
+                                <p>
+                                    We are looking for smart, motivated developers to join our team of programming
+                                    professionals in our Plovdiv office.
+                                </p>
+                                <a href="https://www.rewardgateway.com/" title="RewardGateway" target="_blank">
+                                    www.rewardgateway.com
                                 </a>
                             </div>
                         </li>
