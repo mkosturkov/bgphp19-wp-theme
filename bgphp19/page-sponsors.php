@@ -155,6 +155,39 @@
                     </ul>
                 </li>
                 <li class="sponsors-details-group">
+                    <h2>Bronze Sponsor</h2>
+                    <ul>
+                        <li class="sponsors-details-single">
+                            <a class="sponsors-details-single-img-holder" href="https://www.acronis.com/" title="Acronis" target="_blank">
+                                <img
+                                        src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/acronis-logo-invert-fixed.png"
+                                        alt="Acronis Logo"
+                                        id="acronis-logo"
+                                >
+                            </a>
+                            <div class="the-content an-article">
+                                <p>
+                                    Acronis leads the world in cyber protection - solving safety, accessibility, privacy,
+                                    authenticity, and security (SAPAS) challenges with innovative backup, security,
+                                    disaster recovery, and enterprise file sync and
+                                    share solutions that run in hybrid cloud environments:
+                                    on-premises, in the cloud, or at the edge.
+                                    Enhanced by AI technologies and blockchain-based authentication, Acronis protects all data,
+                                    in any environment, including physical, virtual, cloud, mobile workloads and applications.
+                                </p>
+                                <p>
+                                    With 500,000 business customers, and a powerful worldwide community of Acronis API-enabled
+                                    service providers, resellers and ISV partners, Acronis is trusted by 79 of the top 100
+                                    most valuable brands and has over 5 million customers.
+                                    With dual headquarters in Switzerland and Singapore, Acronis is a global organization
+                                    with offices worldwide and customers and partners in over 190 countries.
+                                </p>
+                                <a href="https://www.acronis.com/" target="_blank">acronis.com</a>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="sponsors-details-group">
                     <h2>Base Sponsor</h2>
                     <ul>
                         <li class="sponsors-details-single">

@@ -277,6 +277,10 @@ ul, ol {
     width: 360px;
 }
 
+#acronis-logo {
+    width: 360px;
+}
+
 #axs-marine-logo {
     width: 300px;
 }
@@ -569,6 +573,10 @@ ul, ol {
     }
 
     #droxic-logo {
+        width: 220px;
+    }
+
+    #acronis-logo {
         width: 220px;
     }
 
