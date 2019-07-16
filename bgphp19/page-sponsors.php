@@ -193,7 +193,7 @@
                         <li class="sponsors-details-single">
                             <a class="sponsors-details-single-img-holder" href="https://public.axsmarine.com/" title="AXSMarine" target="_blank">
                                 <img
-                                        src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/axs-marine.png"
+                                        src="<?php echo get_template_directory_uri();?>/images/sponsor-logos/axs-marine-light.png"
                                         alt="AXSMarine Logo"
                                         id="axs-marine-logo"
                                 >
